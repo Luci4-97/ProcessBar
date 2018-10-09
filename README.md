@@ -1,6 +1,14 @@
+#### ProcessBar
+
+---
+
+##### Demo
+
+<img src="./demo.gif" style="zoom:40%">
 
 
-### How to use
+
+#### How to use
 
 ---
 
@@ -18,4 +26,4 @@ for percent in range(101):
 
 
 
-![Demo CountPages alpha](./demo.gif)
+<img src="./demo.gif" style="zoom:40%">
