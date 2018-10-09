@@ -4,7 +4,7 @@
 
 ##### Demo
 
-<img src="./demo.gif" style="zoom:40%">
+<img src="./demo.gif" width="500">
 
 
 
