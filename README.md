@@ -1,3 +1,5 @@
+
+
 ### How to use
 
 ---
@@ -16,4 +18,4 @@ for percent in range(101):
 
 
 
-<iframe height=868 width=1300 src="./demo.mov">
+![Demo CountPages alpha](./demo.gif)
