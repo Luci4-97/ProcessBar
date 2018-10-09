@@ -12,7 +12,7 @@
                 "-std=c++11",
                 "${fileBasenameNoExtension}.cpp",
                 "-o",
-                "debug/${fileBasenameNoExtension}.out",
+                "${workspaceFolder}/debug/${fileBasenameNoExtension}.out",
             ],
             "problemMatcher": [
                 "$gcc"
